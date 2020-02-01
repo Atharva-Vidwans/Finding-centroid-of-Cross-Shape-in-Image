@@ -1,0 +1,1 @@
+# Finding-centroid-of-Cross-Shape-in-Image
